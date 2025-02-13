@@ -87,14 +87,15 @@
        border: 1px grey solid;
        width: 100%;
         }
-     .col-3 img{
-         width:100%;
-     }
+        .col-3 img{
+            width: 100%;
+        }
+ 
     /* Another */
     .vd .col-4{
         height: 50Vh;
         width: 100%;
-    
+
     }
 
     /* some */
